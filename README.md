@@ -1,4 +1,4 @@
-<div align="center">
+
 ## Radical Feminism = Women's Liberation ##
 What is it?
 
@@ -8,5 +8,5 @@ What is it?
 
  -  A movement to "dis-cover and examine the root of women’s global oppression by men, and the sources of male power."[ \[3\]](https://radicalhubarchives.wordpress.com/2012/07/17/radfem-101-a-radical-feminist-primer-part-one/)
  - A "movement against human suffering." [\[4\]](http://www.feministes-radicales.org/wp-content/uploads/2010/11/Andrea-DWORKIN-Letters-from-a-War-Zone-Writings-1988.pdf)
-</div>
+
 
